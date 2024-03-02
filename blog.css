@@ -1,0 +1,81 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-image: url(vpn.jpg);
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+            height: 74vh;
+            background-attachment: fixed;
+            opacity: 1px;
+        }
+
+        header h1{
+           font-size: 5vh;
+           color: rgb(255, 119, 0);
+           position: absolute;
+           left: 32vw;
+           top:-1vh;
+        }
+
+        .getvpn {
+            background-color: #007bff;
+             color: #fff;
+             padding: 10px 20px;
+             border: none;
+            height: 4vh;
+            width: 6vw;
+            border-radius: 5vh;
+            position: relative;
+            left: 40vw;
+            top: 8vh;
+        }
+        a{
+            text-decoration: none;
+        }
+        .getvpn:hover{
+            background-color: purple;
+        }
+
+        .getvpn span{
+            font-size: 22px;
+        }
+
+        section {
+            padding: 20px;
+            margin-left:8vw ;
+            margin-right: 20vw;
+            text-align: center;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        main{
+            align-items: center;
+        }
+        main h1{
+            position: relative;
+            left: 28vw;
+        }
+        main img{
+            margin-left: 20vw;
+            margin-bottom: 6vw;
+        }
+        main h2{
+            margin-left: 28vw;
+            margin-top: 7vw;
+        }
+        footer a{
+            color: #f0f0f0;
+            padding-left: 2vw;
+            padding-right: 2vw;
+        }
